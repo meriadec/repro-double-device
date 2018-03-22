@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "@ledgerhq/hw-transport-node-hid": "^4.7.0"
+  },
+  "devDependencies": {
+    "babel-runtime": "^6.26.0"
+  }
+}
