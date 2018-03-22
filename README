@@ -1,0 +1,11 @@
+install:
+
+    yarn
+
+    # or
+
+    npm install
+
+launch:
+
+    node index.js
